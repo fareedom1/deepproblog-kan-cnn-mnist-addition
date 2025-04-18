@@ -1,0 +1,7 @@
+torch==2.6.0+cpu
+torchvision==0.21.0+cpu
+scikit-learn
+sympy
+Pillow
+pysdd
+git+https://github.com/ML-KULeuven/problog.git

@@ -1,0 +1,17 @@
+# Bytecode and cache files
+__pycache__/
+*.pyc
+
+# Model snapshots and logs
+snapshot/
+log/
+*.pth
+
+# Environment or IDE settings
+.env
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
