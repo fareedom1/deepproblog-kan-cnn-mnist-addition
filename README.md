@@ -8,7 +8,7 @@ DeepProbLog is a probabilistic logic programming framework that allows the integ
 
 Quickstart
 
-Clone the repository: git clone https://github.com/your-username/deepproblog-kan-cnn-mnist-addition.git cd deepproblog-kan-cnn-mnist-addition
+Clone the repository: git clone https://github.com/fareedom1/deepproblog-kan-cnn-mnist-addition.git cd deepproblog-kan-cnn-mnist-addition
 
 (Optional) Create and activate a virtual environment: python -m venv venv On Mac/Linux: source venv/bin/activate On Windows: .\venv\Scripts\activate
 
